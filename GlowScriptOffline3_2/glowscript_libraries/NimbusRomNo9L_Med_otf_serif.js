@@ -10025,11 +10025,11 @@ var data = [
     0x01, 0xf4, 0x00, 0x33, 0x02, 0xee, 0x00, 0x36, 0x02, 0x78,
     0x00, 0x2a, 0x02, 0x2c, 0x00, 0x1a, 0x02, 0x2c, 0x00, 0x1a,
     0x03, 0x58, 0x00, 0x23, 0x00, 0x26, 0x00, 0x00
-]
+];
 
 // Construct an ArrayBuffer to give to opentype.js
-var L = data.length
-var Nimbus_serif = new ArrayBuffer(L)
-var view = new Uint8Array(Nimbus_serif)
-for (var i=0; i<L; i++) view[i] = data[i]
-window.__font_serif = opentype_loadjs(Nimbus_serif)
+var L = data.length;
+var Nimbus_serif = new ArrayBuffer(L);
+var view = new Uint8Array(Nimbus_serif);
+for (var i=0; i<L; i++) view[i] = data[i];
+window.__font_serif = opentype_loadjs(Nimbus_serif);

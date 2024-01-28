@@ -13767,11 +13767,11 @@ var data = [
     0x03, 0x61, 0x03, 0x62, 0x03, 0x63, 0x03, 0x64, 0x03, 0x65,
     0x03, 0x66, 0x03, 0x67, 0x03, 0x68, 0x00, 0x02, 0x00, 0x01,
     0x00, 0x13, 0x00, 0x1c, 0x00, 0x00, 0x00, 0x00
-]
+];
 
 // Construct an ArrayBuffer to give to opentype.js
-var L = data.length
-var Roboto_sans = new ArrayBuffer(L)
-var view = new Uint8Array(Roboto_sans)
-for (var i=0; i<L; i++) view[i] = data[i]
-window.__font_sans = opentype_loadjs(Roboto_sans)
+var L = data.length;
+var Roboto_sans = new ArrayBuffer(L);
+var view = new Uint8Array(Roboto_sans);
+for (var i=0; i<L; i++) view[i] = data[i];
+window.__font_sans = opentype_loadjs(Roboto_sans);
