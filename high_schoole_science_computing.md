@@ -6,15 +6,15 @@
 
 ### use Science to solve Social problems 
 
-- problem -- Liter of Light At Night Case Study Video | Pepsi | BBDO Guerrero![image](https://github.com/chiyanglin-AStar/vPython_Glowscript/assets/28211609/b1705168-0b8b-465c-8f80-30193e77f9ad)
+- problem -- Liter of Light At Night Case Study Video | Pepsi | BBDO Guerrero[![Watch the video](./images/Liter_of_Light_p1.png)](https://www.youtube.com/watch?v=d6wVOCmw3_o&t=24s)
 
-- solution -- How to Build a Solar Bottle Bulb 2.0 ( Updated English Version![image](https://github.com/chiyanglin-AStar/vPython_Glowscript/assets/28211609/fb90dbcf-7787-4b0b-9336-e98e50de7376)
+- solution -- How to Build a Solar Bottle Bulb 2.0 ( Updated English Version[![Watch the video](./images/Liter_of_Light_p2.png)](https://www.youtube.com/watch?v=rYTIYUUK70I&t=57s)
 
 #### Taiwan Cases: 
 
-- 南一中學生蹲街撿菸蒂爆紅　安平區「淨街」2h結果超驚人 ![image](https://github.com/chiyanglin-AStar/vPython_Glowscript/assets/28211609/2dc420f6-14e8-4b11-909a-5347b03601c5)
+- 南一中學生蹲街撿菸蒂爆紅　安平區「淨街」2h結果超驚人 [![Watch the video](./images/h_science_p3.png)](https://www.youtube.com/watch?v=vwCzIymtwv8)
 
-- 吳承儒：高鐵上的小科學家![image](https://github.com/chiyanglin-AStar/vPython_Glowscript/assets/28211609/1becc0ca-1f10-4570-a03b-b3fdc9929106)
+- 吳承儒：高鐵上的小科學家[![Watch the video](./images/h_science_p4.png)](https://www.youtube.com/watch?v=hZyq5Mcvrec)
 
 
 
